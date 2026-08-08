@@ -1,0 +1,5 @@
+---
+title: "My current CV"
+---
+
+[Download my CV (PDF)](CV_Malin_Mueller.pdf){.btn .btn-primary target="_blank"}

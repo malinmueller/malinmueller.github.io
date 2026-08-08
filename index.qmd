@@ -1,0 +1,21 @@
+---
+title: ""
+
+image: profile.jpg
+
+about:
+  template: jolla
+  image: profile.jpg
+  image-shape: round
+  links:
+    - icon: linkedin
+      href: https://de.linkedin.com/in/malin-m%C3%BCller-09a419226
+---
+
+# Malin Müller
+
+I am a PhD candidate at the [RPTU Kaiserslautern-Landau](https://rptu.de/methodenzentrum/ueber-uns/team/malin-mueller) and an associated member of the
+[Research Training Group Statistical Modeling in Psychology (SMiP)](https://www.uni-mannheim.de/smip/team/phd-candidates/cohort-2024/malin-mueller/).
+I am interested in improving measurement in intensive longitudinal data (e.g., careless responding, response styles, and measurement reactivity). In my PhD, I investigate how careless responding can be detected and addressed in experience sampling studies using different mixture modeling approaches.
+
+

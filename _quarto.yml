@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Malin Müller"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications and Talks
+      - href: cv.qmd
+        text: CV
+      - href: awards.qmd
+        text: Awards
+
+    right:
+      - icon: linkedin
+        href: https://de.linkedin.com/in/malin-m%C3%BCller-09a419226
+
+  page-footer:
+    left: "© 2026 Malin Müller"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+editor: visual
