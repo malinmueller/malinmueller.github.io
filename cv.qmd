@@ -212,6 +212,8 @@ Development and teaching of the psychology seminar *Psychologie der Vielfältigk
 
 R  
 R Markdown
+LatentGold
+Mplus
 :::
 
 ::: {.skill}
