@@ -1,1 +1,142 @@
 /* css styles */
+
+/* =========================================================
+   ACADEMIC CV
+   ========================================================= */
+
+
+/* ---------- General CV spacing ---------- */
+
+.cv-entry {
+  display: grid;
+  grid-template-columns: 155px minmax(0, 1fr);
+  column-gap: 2rem;
+  margin-bottom: 2rem;
+  align-items: start;
+}
+
+
+/* ---------- Dates ---------- */
+
+.cv-date {
+  color: #6c757d;
+  font-size: 0.93rem;
+  line-height: 1.45;
+  padding-top: 0.15rem;
+}
+
+
+/* ---------- Main content ---------- */
+
+.cv-content {
+  min-width: 0;
+}
+
+.cv-content h3 {
+  margin-top: 0;
+  margin-bottom: 0.2rem;
+  font-size: 1.12rem;
+  font-weight: 600;
+}
+
+.cv-content p {
+  margin-top: 0.25rem;
+  margin-bottom: 0.45rem;
+  line-height: 1.6;
+}
+
+.cv-content strong {
+  font-weight: 500;
+}
+
+
+/* ---------- Section headings ---------- */
+
+.cv-entry + h2,
+.skills-grid + h2 {
+  margin-top: 3rem;
+}
+
+h2 {
+  margin-top: 2.8rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid #dedede;
+  font-weight: 600;
+}
+
+
+/* ---------- Doctoral research heading ---------- */
+
+h2 + h3 {
+  margin-top: 0;
+}
+
+
+/* =========================================================
+   TECHNICAL SKILLS
+   ========================================================= */
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 3rem;
+  row-gap: 1.3rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.skill {
+  padding-bottom: 0.6rem;
+}
+
+.skill h3 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.skill p {
+  margin-top: 0;
+  line-height: 1.6;
+}
+
+
+/* =========================================================
+   LINKS
+   ========================================================= */
+
+.cv-content a,
+main a {
+  text-decoration: none;
+}
+
+.cv-content a:hover,
+main a:hover {
+  text-decoration: underline;
+}
+
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 768px) {
+
+  .cv-entry {
+    grid-template-columns: 1fr;
+    row-gap: 0.25rem;
+    margin-bottom: 2rem;
+  }
+
+  .cv-date {
+    font-size: 0.88rem;
+    margin-bottom: 0.15rem;
+  }
+
+  .skills-grid {
+    grid-template-columns: 1fr;
+    row-gap: 1rem;
+  }
+}
