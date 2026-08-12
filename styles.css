@@ -140,3 +140,39 @@ main a:hover {
     row-gap: 1rem;
   }
 }
+
+
+/* =========================================================
+   WEBSITE COLORS
+   ========================================================= */
+
+/* Navbar */
+.navbar {
+  background-color: #3A86B8 !important;
+}
+
+/* Website title in navbar */
+.navbar-title {
+  color: white !important;
+}
+
+/* Navigation links */
+.navbar-nav .nav-link {
+  color: white !important;
+}
+
+/* Navigation links on hover */
+.navbar-nav .nav-link:hover {
+  color: #EAF5FB !important;
+}
+
+/* Active navigation item */
+.navbar-nav .nav-link.active {
+  color: white !important;
+  font-weight: 600;
+}
+
+/* Navbar icons */
+.navbar .bi {
+  color: white !important;
+}
