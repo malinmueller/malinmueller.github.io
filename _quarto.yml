@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - google7ddc14bf0b740639.html
 website:
   title: "Malin Müller"
 
