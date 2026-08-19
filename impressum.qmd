@@ -1,0 +1,89 @@
+---
+title: "Impressum & Datenschutz"
+---
+
+# Impressum
+
+## Angaben gemäß § 18 Abs. 1 Medienstaatsvertrag (MStV)
+
+**Malin Müller**  
+Fortstraße 7  
+76829 Landau in der Pfalz  
+Germany  
+
+**Email:** [malin.mueller@rptu.de](mailto:malin.mueller@rptu.de)
+
+
+## Haftung für Inhalte
+
+Die Inhalte dieser Website wurden mit größtmöglicher Sorgfalt erstellt. Eine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Inhalte kann jedoch nicht übernommen werden.
+
+
+## Haftung für externe Links
+
+Diese Website enthält Links zu externen Websites Dritter, auf deren Inhalte ich keinen Einfluss habe. Für die Inhalte der verlinkten Seiten sind ausschließlich deren jeweilige Betreiber verantwortlich.
+
+
+# Datenschutz
+
+## Verantwortliche
+
+Verantwortlich für die Verarbeitung personenbezogener Daten im Zusammenhang mit dieser Website ist:
+
+**Malin Müller**  
+Fortstraße 7  
+76829 Landau in der Pfalz  
+Germany  
+
+**Email:** [malin.mueller@rptu.de](mailto:malin.mueller@rptu.de)
+
+
+## Hosting über GitHub Pages
+
+Diese Website wird über **GitHub Pages**, einen Dienst von GitHub, Inc., gehostet.
+
+Beim Aufruf dieser Website werden technisch erforderliche Informationen an GitHub übermittelt. GitHub gibt insbesondere an, dass beim Besuch einer GitHub-Pages-Website die IP-Adresse der Besucherinnen und Besucher zu Sicherheitszwecken protokolliert und gespeichert wird.
+
+Die Verarbeitung dieser technischen Daten ist erforderlich, um die Website bereitzustellen sowie deren Sicherheit und Stabilität zu gewährleisten.
+
+Weitere Informationen zur Verarbeitung personenbezogener Daten durch GitHub finden sich in der [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+
+
+## Kontaktaufnahme per E-Mail
+
+Wenn Sie mich per E-Mail kontaktieren, werden die von Ihnen übermittelten personenbezogenen Daten verarbeitet, soweit dies zur Bearbeitung Ihrer Anfrage und zur weiteren Kommunikation erforderlich ist.
+
+Die Daten werden nur so lange gespeichert, wie dies für die Bearbeitung der jeweiligen Anfrage erforderlich ist bzw. gesetzliche Aufbewahrungspflichten bestehen.
+
+
+## Externe Links
+
+Diese Website enthält Links zu externen Websites, beispielsweise zu wissenschaftlichen Publikationen, institutionellen Webseiten oder beruflichen Profilen.
+
+Beim bloßen Besuch dieser Website werden durch solche Links keine Daten an die jeweiligen externen Anbieter übertragen. Erst wenn Sie einen externen Link aufrufen, verlassen Sie diese Website. Für die anschließende Datenverarbeitung gelten die Datenschutzbestimmungen des jeweiligen Anbieters.
+
+
+## Cookies und Tracking
+
+Auf dieser Website werden von mir keine eigenen Analyse-, Tracking- oder Werbedienste eingesetzt.
+
+Die Website verwendet insbesondere kein Google Analytics und setzt von mir keine Cookies zu Analyse- oder Werbezwecken ein.
+
+Soweit GitHub als Hostinganbieter im Rahmen der Bereitstellung von GitHub Pages technisch erforderliche Daten verarbeitet oder Technologien einsetzt, richtet sich diese Verarbeitung nach den Datenschutzbestimmungen von GitHub.
+
+
+## Ihre Rechte
+
+Soweit die gesetzlichen Voraussetzungen erfüllt sind, haben Sie nach der Datenschutz-Grundverordnung insbesondere das Recht auf Auskunft über die Verarbeitung Ihrer personenbezogenen Daten sowie auf Berichtigung, Löschung oder Einschränkung der Verarbeitung.
+
+Darüber hinaus können Ihnen ein Recht auf Datenübertragbarkeit sowie ein Widerspruchsrecht gegen bestimmte Verarbeitungen zustehen.
+
+Sie haben außerdem das Recht, sich bei einer zuständigen Datenschutzaufsichtsbehörde zu beschweren.
+
+
+## Änderungen dieser Datenschutzhinweise
+
+Diese Datenschutzhinweise können angepasst werden, wenn sich die Website, die eingesetzten Dienste oder die rechtlichen Anforderungen ändern.
+
+**Stand: August 2026**
+```

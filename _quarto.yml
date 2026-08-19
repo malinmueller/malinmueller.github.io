@@ -21,6 +21,7 @@ website:
 
   page-footer:
     left: "© 2026 Malin Müller"
+    center: "[Impressum & Datenschutz](impressum.qmd)"
     right: "Built with [Quarto](https://quarto.org/)"
 format:
   html:
